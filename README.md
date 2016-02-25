@@ -29,6 +29,6 @@ Imagine you are a Software Developer at ally and you are presented that data. Yo
 
 3. Submit your solution:
 
-    Please submit your solutions in a form of publicly accessible git repository. Please make sure to submit the full git commit history with the project. We will clone it and evaluate your work so. Please include instructions for testing and running your code.
+    Please submit your solutions in a form of publicly accessible git repository. Please make sure to submit the full git commit history with the project and please include instructions for testing and running your code.
 
     Alternatively, you can submit a zip archive of your project via email.
