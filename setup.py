@@ -8,5 +8,6 @@ setup(
     license='',
     author='max floettmann',
     author_email='max.floettmann@gmail.com',
-    description=''
+    description='',
+    requires=['numpy', 'scipy', 'matplotlib', 'geopandas']
 )
